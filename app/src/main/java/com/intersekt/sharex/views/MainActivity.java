@@ -1,7 +1,8 @@
-package com.intersekt.sharex;
+package com.intersekt.sharex.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.intersekt.sharex.R;
 
 public class MainActivity extends AppCompatActivity {
 
