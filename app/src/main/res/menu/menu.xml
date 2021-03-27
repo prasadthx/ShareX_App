@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home">
+
+        </item>
+        <item
+            android:id="@+id/message"
+
+            android:title="Message">
+
+        </item>
+        <item
+            android:id="@+id/camera"
+
+            android:title="Camera">
+
+        </item>
+        <item
+            android:id="@+id/user"
+
+            android:title="User">
+
+        </item>
+    </group>
+
+    <item android:title="Communicate">
+
+        <menu>
+            <item
+                android:id="@+id/share"
+
+                android:title="Share">
+
+            </item>
+            <item
+                android:id="@+id/send"
+
+                android:title="Send">
+
+            </item>
+
+
+        </menu>
+
+
+    </item>
+
+
+</menu>
